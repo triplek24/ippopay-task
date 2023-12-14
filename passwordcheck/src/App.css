@@ -1,0 +1,18 @@
+.password-checker-container {
+  text-align: center;
+  margin-top: 50px;
+}
+
+label {
+  display: block;
+  margin-top: 10px;
+}
+
+.error {
+  border: 1px solid red;
+}
+
+.error-message {
+  color: red;
+  margin-top: 5px;
+}
